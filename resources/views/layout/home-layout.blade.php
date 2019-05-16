@@ -13,6 +13,7 @@
        <div class="row flex-column">
          @include('components.navbar')
          @yield('content')
+         @include('components.footer')
        </div>
      </div>
    </body>

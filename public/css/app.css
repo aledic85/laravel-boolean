@@ -13743,3 +13743,15 @@ nav i {
   height: 10%;
 }
 
+footer ul {
+  list-style: none;
+}
+
+footer img {
+  max-width: 40%;
+}
+
+footer .fab-cont > i {
+  font-size: 25px;
+}
+
