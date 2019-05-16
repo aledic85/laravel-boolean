@@ -13738,3 +13738,8 @@ nav i {
   font-size: 20px;
 }
 
+.img-wrapper img {
+  width: 10%;
+  height: 10%;
+}
+

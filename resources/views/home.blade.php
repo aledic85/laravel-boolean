@@ -2,6 +2,6 @@
 
 @section('content')
 
-  
+  @include('components.home-content')
 
 @stop
