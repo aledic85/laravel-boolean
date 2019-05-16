@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Font-awesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+nav {
+
+  height: 10vh;
+
+  img {
+
+    max-width: 40%;
+  }
+
+  .active {
+
+    border-bottom: 1px solid;
+  }
+
+  a:hover {
+
+    border-bottom: 1px solid;
+    text-decoration: none;
+  }
+
+  i {
+
+    position: absolute;
+    right: 10%;
+    font-size: 20px;
+  }
+}
