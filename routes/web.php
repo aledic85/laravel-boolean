@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('home');
 });
+
+Route::get('dopo-il-corso', function () {
+    return view('dopo-il-corso');
+});

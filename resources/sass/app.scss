@@ -8,7 +8,7 @@
 @import '~bootstrap/scss/bootstrap';
 
 // Font-awesome
-@import "node_modules/font-awesome/scss/font-awesome.scss";
+@import "~font-awesome/scss/font-awesome";
 
 nav {
 
@@ -63,4 +63,9 @@ footer {
 
     font-size: 25px;
   }
+}
+
+.sec-banner {
+
+  height: 200px;
 }

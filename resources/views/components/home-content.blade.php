@@ -1,13 +1,13 @@
-<div class="container-fluid bg-dark">
+<div class="container-fluid bg-light">
   <div class="container">
     <div class="row mt-5">
-      <div class="col-md-12 col-lg-5 d-flex flex-column p-5 align-items-center">
-        <h1 class="text-success font-weight-bold">Diventa sviluppatore web</h1>
-        <p class="text-primary">6 mesi di corso intensivo online in diretta per imparare da zero il mestiere di web developer e trovare un nuovo lavoro nelle aziende top del settore</p>
+      <div class="col-md-12 col-lg-6 d-flex flex-column p-5 align-items-center">
+        <h1 class="text-success font-weight-bold w-75">Diventa sviluppatore web</h1>
+        <p class="text-primary w-75">6 mesi di corso intensivo online in diretta per imparare da zero il mestiere di web developer e trovare un nuovo lavoro nelle aziende top del settore</p>
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">SCOPRI IL CORSO</button>
       </div>
-      <div class="col-md-12 col-lg-5 offset-lg-2">
-        <img class="img-fluid" src="https://www.boolean.careers/images/common/mac2x.png" alt="">
+      <div class="col-md-12 col-lg-6">
+        <img class="img-fluid mb-5" src="https://www.boolean.careers/images/common/mac2x.png" alt="">
       </div>
     </div>
   </div>
