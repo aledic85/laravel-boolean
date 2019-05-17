@@ -69,3 +69,18 @@ footer {
 
   height: 200px;
 }
+
+.drop-menu {
+
+    display: none;
+    position: absolute;
+    top: 137%;
+    right: 0%;
+    background: white;
+    border-radius: 3px;
+
+    ul {
+
+      list-style: none;
+    }
+}
